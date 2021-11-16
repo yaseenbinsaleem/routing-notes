@@ -1,0 +1,9 @@
+Npm I firebase 
+Create a boiler plate and push on github clone it and use it
+
+Create a project on firebase.com
+Setting>select npm> copy code>past in firbase.js
+Export default app (where firebase is initialized) (we can give anyname example: fb) (this app is from the code we have copied from website above)
+Build>Go to authentication> sign in method>enable email  
+Firebase documentation>web>get started> sign up new user (copy the code of web version 9 paste in login.js in login function,  similar in login copy code from login new user)
+Auth works as usehistory or you can say auth is also a type of hook                                                                   
